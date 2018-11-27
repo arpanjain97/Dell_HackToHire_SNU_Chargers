@@ -1,0 +1,13 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+}
+
+.Pusher {
+  width: calc(100% - 150px);
+}
+
+.Segment {
+  height: calc(100vh - 100px);
+  overflow-y: auto;
+}
